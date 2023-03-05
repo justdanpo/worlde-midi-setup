@@ -1,0 +1,23 @@
+{
+  "name": "worldepadcfg",
+  "author": {
+    "name": "den_po"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@tsconfig/node18": "^1.0.1",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.191",
+    "easymidi": "^3.0.1",
+    "lodash": "^4.17.21",
+    "ts-command-line-args": "^2.4.2",
+    "ts-node": "^10.9.1"
+  },
+  "scripts": {
+    "build": "tsc --allowUmdGlobalAccess",
+    "dev": "ts-node-dev --respawn ./src/main.ts",
+    "start": "ts-node --esm ./src/main.ts"
+  }
+}

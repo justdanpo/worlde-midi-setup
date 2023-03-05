@@ -1,0 +1,78 @@
+{
+  "knobs": [
+    { "channel": "global", "value": 100, "cc":  7, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" },
+    { "channel": "global", "value": 100, "cc": 74, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" },
+    { "channel": "global", "value": 100, "cc": 71, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" },
+    { "channel": "global", "value": 100, "cc": 76, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" },
+    { "channel": "global", "value": 100, "cc": 77, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" },
+    { "channel": "global", "value": 100, "cc": 93, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" },
+    { "channel": "global", "value": 100, "cc": 73, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" },
+    { "channel": "global", "value": 100, "cc": 75, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" }
+  ],
+  "pads": [
+    { "channel": "channel10", "value": 1, "cc": 64, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 65, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 66, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 67, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 96, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 97, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 98, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 99, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+
+    { "channel": "channel10", "value": 1, "cc": 60, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 61, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 62, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 63, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 92, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 93, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 94, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 95, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+
+    { "channel": "channel10", "value": 1, "cc": 56, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 57, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 58, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 59, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 88, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 89, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 90, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 91, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+
+    { "channel": "channel10", "value": 1, "cc": 52, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 53, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 54, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 55, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 84, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 85, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 86, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 87, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+
+    { "channel": "channel10", "value": 1, "cc": 48, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 49, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 50, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 51, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 80, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 81, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 82, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 83, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+
+    { "channel": "channel10", "value": 1, "cc": 44, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 45, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 46, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 47, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 76, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 77, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 78, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" },
+    { "channel": "channel10", "value": 1, "cc": 79, "minLsb": 0, "maxMsb": 127, "mode": "note_gate", "color": "7f7f7f" }
+  ],
+  "sliders": [
+    { "channel": "global", "value": 100, "cc": 114, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" },
+    { "channel": "global", "value": 100, "cc":  18, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" },
+    { "channel": "global", "value": 100, "cc":  19, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" },
+    { "channel": "global", "value": 100, "cc":  16, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" },
+    { "channel": "global", "value": 100, "cc":  17, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" },
+    { "channel": "global", "value": 100, "cc":  91, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" },
+    { "channel": "global", "value": 100, "cc":  79, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" },
+    { "channel": "global", "value": 100, "cc":  72, "minLsb": 0, "maxMsb": 127, "mode": "continuous_absolute" }
+  ],
+  "global": { "channel": "channel1", "knobAccel": "fast" }
+}
