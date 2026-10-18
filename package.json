@@ -18,6 +18,6 @@
   "scripts": {
     "build": "tsc --allowUmdGlobalAccess",
     "dev": "ts-node-dev --respawn ./src/main.ts",
-    "start": "ts-node --esm ./src/main.ts"
+    "start": "npm run build && node ./dist/main.js"
   }
 }

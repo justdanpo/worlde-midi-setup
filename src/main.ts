@@ -14,7 +14,7 @@ async function write(device: midi.Device, fileName: string, bank: number) {
   const json = await readFile(fileName)
   const padConfig: Pad48Settings = JSON.parse(json.toString())
 
-  writeParams(device, padConfig, bank)
+  await writeParams(device, padConfig, bank)
 }
 
 async function main() {

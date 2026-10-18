@@ -16,6 +16,8 @@ enum DeviceId {
   Broadcast = 0x7f
 }
 
+const ParameterWriteDelayMs = 10
+
 export interface ParamAddress {
   param: number
   addr: number
@@ -63,7 +65,7 @@ export class Device {
     }
   }
 
-  setParam(addr: ParamAddress, value: number) {
+  async setParam(addr: ParamAddress, value: number) {
     this.output.send(
       'sysex',
       _.flatten([
@@ -79,6 +81,7 @@ export class Device {
         SysEx.Terminator
       ])
     )
+    await new Promise<void>((resolve) => setTimeout(resolve, ParameterWriteDelayMs))
   }
 }
 
